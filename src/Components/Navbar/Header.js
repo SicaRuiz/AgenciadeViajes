@@ -12,7 +12,7 @@ function Header(){
     return (
         <div className="mb-3 pb-2 border-bottom border-warning">
             <nav className="navbar navbar-expand-lg navbar-light bg-white">
-                <a className="navbar-brand" href="/Inicio"><img src="https://images.vexels.com/media/users/3/153370/isolated/preview/ed97cff77251654d85859370a06cd5a9-icono-de-trazo-de-color-de-mochila-de-viaje-by-vexels.png" width="50" height="50" alt=""/></a>
+                <a className="navbar-brand" href="/"><img src="https://images.vexels.com/media/users/3/153370/isolated/preview/ed97cff77251654d85859370a06cd5a9-icono-de-trazo-de-color-de-mochila-de-viaje-by-vexels.png" width="50" height="50" alt=""/></a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
